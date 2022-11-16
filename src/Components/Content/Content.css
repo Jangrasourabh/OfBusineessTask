@@ -1,0 +1,25 @@
+.content-container-head{
+    background-color: var(--grey);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.labels-container{
+    display: inline-block;
+    width: max-content;
+    font-size: 12px;
+    padding: 2px 10px;
+    font-weight: 500;
+}
+.content-container{
+    border: 1px solid var(--border-grey);
+}
+
+.row-id{
+    font-size: 12px;
+    color: var(--text-grey);
+}
+
+.comments-count{
+    font-size: 12px;
+}

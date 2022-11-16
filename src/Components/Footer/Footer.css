@@ -1,0 +1,5 @@
+.footer-list{
+    list-style-type: none;
+    color: var(--sky-blue);
+    padding: 0;
+}
